@@ -24,3 +24,4 @@ This is my first React & React-Redux App create from scratch, totally functional
 * Getting categories from the api depends of the search term.
 * Interactive and animated buttons.
 # Reddit-React-Jimmy
+# Reddit-React-Jimmy
