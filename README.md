@@ -22,4 +22,4 @@ This is my first React & React-Redux App create from scratch, totally functional
 * Full responsive desing with different layouts.
 * Posibility to organize by category.
 * Getting categories from the api depends of the search term.
-* Interactive and animated buttons .
+* Interactive and animated buttons.
