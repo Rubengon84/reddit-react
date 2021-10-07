@@ -1,4 +1,4 @@
-# My First React App from scratch.
+# My First React SPA App from scratch.
 
 ### Table of contents
 * [General info](#general-info)
@@ -23,5 +23,4 @@ This is my first React & React-Redux App create from scratch, totally functional
 * Posibility to organize by category.
 * Getting categories from the api depends of the search term.
 * Interactive and animated buttons.
-# Reddit-React-Jimmy
-# Reddit-React-Jimmy
+
